@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NodeJS Express**
 
-- 📫 How to reach me **medrano.marino@gmail.com**
+- 📫 How to reach me **shymarogames@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
